@@ -1,0 +1,1 @@
+All fixtures in EPSG:6596 (NAD83(2011) StatePlane WA North, meters). Load with gdf.set_crs(6596, allow_override=True).
